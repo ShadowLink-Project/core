@@ -1,0 +1,6 @@
+colorama==0.4.6
+cryptocode==0.1
+mpmath==1.3.0
+pycryptodome==3.20.0
+pycryptodomex==3.20.0
+sympy==1.12.1
